@@ -1,0 +1,19 @@
+{
+  "name": "intro_3DCVCG",
+  "version": "1.0.0",
+  "description": "Intro to 3D CV/CG w/ NF",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "slidev --open",
+    "build": "slidev build",
+    "export": "slidev export"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@slidev/cli": "^0.33.1",
+    "@slidev/theme-default": "^0.21.2",
+    "@slidev/theme-seriph": "^0.21.2"
+  }
+}
